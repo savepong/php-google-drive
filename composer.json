@@ -1,0 +1,12 @@
+{
+    "name": "savepong/google-drive",
+    "authors": [
+        {
+            "name": "Pongsiri Chuaychoonoo",
+            "email": "savepong.com@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.4"
+    }
+}
